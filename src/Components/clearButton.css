@@ -1,0 +1,9 @@
+.clearBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #888888;
+  height: 4em;
+  color: #ffffff;
+  width: 400px;
+}
